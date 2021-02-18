@@ -1,6 +1,5 @@
 'use strict';
 
-const { ModuleKind } = require('typescript');
 const test1 = require('./test1');
 
 class P {
